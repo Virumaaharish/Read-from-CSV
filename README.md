@@ -1,4 +1,5 @@
 ## DATE:
+
 ## EXP NO: 12
 # Read-from-CSV
 
@@ -18,8 +19,8 @@ Step 4:Use len() method to get the number of rows and columns.
 Step 5:End of the program.
 ~~~
 ## PROGRAM:
-#developed by Anbu Selvan S
-#register number:212223110003
+#developed by Virumaa harish M
+#register number:212223230246
 import pandas as pd
 df=pd.read_csv("nba.csv")
 print(df.head(10))
