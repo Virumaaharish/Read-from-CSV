@@ -1,5 +1,5 @@
-DATE:
-EXP NO: 12
+## DATE:
+## EXP NO: 12
 # Read-from-CSV
 
 ## AIM:
